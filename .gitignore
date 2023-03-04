@@ -105,3 +105,6 @@ dist
 
 # Parcel specifics
 .parcel-cache/
+
+#expo
+.expo
